@@ -174,7 +174,6 @@ iframe {
   justify-content: center;
   align-items: center;
   padding: 15px;
-  background: #f2f2f2;  
 }
 
 .wrap-login100 {
@@ -494,3 +493,11 @@ iframe {
   padding-top: 40px;
 }
 
+/*=== buat animasi bg ===*/
+.container-login100{
+  animation-name: bganim;
+}
+
+@keyframes bganim {
+  
+}
